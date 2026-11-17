@@ -7,7 +7,13 @@ LTspiceModels/*.log
 LTspiceModels/*.plt
 LTspiceModels/*.out
 LTspiceModels/*.db
-LTspiceModels/*.fft
+LTspiceModels/*/*.fft
+LTspiceModels/*/*.raw
+LTspiceModels/*/*.log
+LTspiceModels/*/*.plt
+LTspiceModels/*/*.out
+LTspiceModels/*/*.db
+LTspiceModels/*/*.fft
 
 # Temporary files
 *.000
